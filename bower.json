@@ -10,7 +10,7 @@
 	],
 	"ignore": [
 		"tests/",
-		"src/",
+//		"src/",
 		"build/",
 		"Jakefile.js",
 		"package.json",
